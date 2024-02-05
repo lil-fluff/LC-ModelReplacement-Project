@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 160646697
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a0e5ba82c82abaf42239c38cd2f66938
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a0e5ba82c82abaf42239c38cd2f66938
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MikuModel/Mat/Eye.mat
+- Assets/MikuModel/Mat/HairF.mat
+- Assets/MikuModel/Mat/Hair.mat
+- Assets/MikuModel/Mat/Body.mat
+- Assets/MikuModel/Mat/Costume.mat
+- Assets/MikuModel/Mat/Transparent.mat
+Dependencies: []
